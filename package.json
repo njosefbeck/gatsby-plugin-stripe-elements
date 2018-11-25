@@ -11,13 +11,7 @@
   "bugs": {
     "url": "https://github.com/njosefbeck/gatsby-plugin-stripe-elements/issues"
   },
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "stripe",
-    "stripe elements",
-    "stripe.js"
-  ],
+  "keywords": [],
   "license": "MIT",
   "main": "index.js",
   "scripts": {
